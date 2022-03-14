@@ -9,8 +9,8 @@ class Arreglo_Horizontal {
     
     //Imprimimos los valores Horizontalmente
     for(int i=0;i<10;i++){
-        Console.WriteLine(Arreglo_Numeros[i]);
-        //Console.Write(Arreglo_Numeros[i] + " ");
+        //Console.WriteLine(Arreglo_Numeros[i]);
+        Console.Write(Arreglo_Numeros[i] + " ");
     }
 
   }
